@@ -1,1 +1,1 @@
-# Samso Landing Page
+# Webpack Base Project
