@@ -1,9 +1,5 @@
 # Webpack Base Project
 
-## Requirements
-
-* [Node](https://nodejs.org) > 7.6
-
 ## Usage
 
 Substitute `PROJECT-NAME` for your project name.
@@ -11,7 +7,7 @@ Substitute `PROJECT-NAME` for your project name.
 Clone the repository
 
 ```sh
- git clone https://github.com/lifenautjoe/webpack-starter-basic PROJECT-NAME
+ git clone git@github.com:maverck-/webpack-base-project.git PROJECT-NAME
  cd PROJECT-NAME
 ```
 
